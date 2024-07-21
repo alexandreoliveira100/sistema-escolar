@@ -1,0 +1,13 @@
+
+/*Este é o nome que aparece no rodapé */
+#box_rodape h1{	
+	color: rgb(5, 5, 10);	
+}
+
+#box_rodape { 	
+	height: 100px;
+	border:1px solid #333;	
+	background-color: rgb(149, 149, 207);
+	text-align: center;
+}
+

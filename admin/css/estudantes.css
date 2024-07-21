@@ -1,0 +1,74 @@
+
+#selecionar_estudantes{
+	width:978px; 
+	background:#E1E1C4;
+	height:auto;
+	float:left;
+	text-align:left;
+	margin:-20px 0 20px 190px;
+	border:1px solid #333;
+	}
+
+#selecionar_estudantes table{
+    border:1px solid #333;
+    padding:10px;
+    background:#FFF;
+    margin:0 0 10px 0;
+    margin:auto;
+    font:15px Arial, Helvetica, sans-serif;
+    text-align:left;
+    }
+
+#selecionar_estudantes h1{
+    font:20px Arial, Helvetica, sans-serif;
+    margin:15px 0 10px 37px;
+    color:#FFF;
+    }
+    
+
+#selecionar_estudantes h3{
+    font:12px Arial, Helvetica, sans-serif;
+    margin:2px 0 0 0;
+    color:#900;
+    }
+
+#cadastrar_alunos{
+    width:978px;
+	background:#E1E1C4;
+	height:auto;
+	float:left;
+	text-align:left;
+	margin:-10px 0 20px 190px;
+	border:1px solid #333;
+    }
+
+#cadastrar_alunos h1{
+    font:20px Arial, Helvetica, sans-serif;
+    margin:15px 0 10px 37px;
+    color:#FFF;
+    text-align: center;
+    }
+
+#cadastrar_alunos h2{
+    font:15px Arial, Helvetica, sans-serif;
+    margin:2px 0 0 37px;
+    color:#900;
+    }
+
+#cadastrar_alunos table{
+    border:1px solid #333;
+    padding:10px;
+    background:#FFF;
+    margin:0 0 10px 0;
+    margin:auto;
+    font:15px Arial, Helvetica, sans-serif;
+    text-align:left;
+    }
+        
+#cadastrar_alunos input{
+    font:12px Arial, Helvetica, sans-serif;
+    margin:2px 0 15px 0;
+    padding:5px;
+    width:270px;
+    color:#F90;
+    }  

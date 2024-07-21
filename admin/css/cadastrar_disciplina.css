@@ -1,0 +1,66 @@
+#box_disciplinas{	
+    width:980px;
+	background:#e0e0a6;
+	height:auto;
+	float:left;
+	text-align:left;
+	margin: 40px 0 20px 190px;
+	border: 1px solid #333;
+	padding: 10px;	
+	}
+
+
+
+
+    #box_disciplinas h1{	
+        text-align: center;
+		color:#000;
+    }
+
+    #visualizar_disciplinas{
+        width:980px;
+        background:#e0e0a6;
+        border: 1px solid #333;
+        height:auto;
+        margin: -10px 0 20px 190px;
+        padding: 10px;	
+        float:left; /*coloquei por último para alinhas os nomes dentro da tabela*/
+	    text-align:left; /*coloquei por último para alinhas os nomes dentro da tabela*/
+
+    }
+
+    #visualizar_disciplinas table{
+        border:1px solid #333;
+        padding:1px;
+        background:#d61a1a;
+        margin:0 0 10px 0;
+        margin:auto;
+        font:15px Arial, Helvetica, sans-serif;
+        text-align:center;  /*coloquei por último para alinhas os nomes dentro da tabela*/
+        /*coloquei por último para alinhas os nomes dentro da tabela*/
+        }
+
+        #visualizar_disciplinas h3{
+            font:15px Arial, Helvetica, sans-serif;
+            margin:2px 0 0 37px;
+            color:#900;
+        }
+
+        #visualizar_disciplinas h1{
+            text-align: center;
+            color:#000;
+          }
+
+          #visualizar_disciplinas table{
+            border:1px solid #333;
+            padding:0px;
+            background:#FFF;
+            margin:10px 0 10px 0;
+            margin:auto;
+            font:15px Arial, Helvetica, sans-serif;
+            text-align:left;
+            }
+
+           
+
+    

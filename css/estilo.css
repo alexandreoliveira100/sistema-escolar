@@ -1,0 +1,101 @@
+/* CSS Document */
+
+body{
+background: white;	
+
+}
+
+/* este código n funciona provavelmente*/
+
+#logo{
+width:300px;
+height:200px;
+margin:auto;	
+background-color: #5390eb;
+}
+
+#logo img{
+width:300px;
+height:200px;	
+
+}
+/* este código n funciona provavelmente*/
+#caixa_login{
+	background-color: #869af1;
+	width:450px;
+	height:300px;
+	margin: 15px auto;	
+	border:2px solid #0a0a0a;	
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+	}
+
+	
+#caixa_login table{
+	font:15px Arial, Helvetica, sans-serif;
+	color:#666;
+	margin:40px 10px 10px 10px;
+	}
+	
+		
+#caixa_login h1{
+	font:15px Arial, Helvetica, sans-serif;
+	color:#0818f3;
+	margin:10px 0 0 0;
+	}
+	
+/* este input é os campos para digitar o code e  senha para entrar no sistema, já na tela de login*/
+#caixa_login input{
+	font:15px Arial, Helvetica, sans-serif;
+	color:#751642;
+	height:25px;
+	padding:10px;
+	width:400px;
+	border:1px solid #CCC;	
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+	}
+	
+	
+/* este é o botão Entrar da tela de login */	
+#caixa_login .input{
+	font:15px Arial, Helvetica, sans-serif;
+	color:#140202;
+	height:40px;
+	padding:10px;
+	background:#47d12b00;
+	cursor:pointer;
+	width:80px; 
+	margin:10px 0 0 0;
+	border:1px solid #CCC;	
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+	}
+	
+	
+#caixa_login .input:hover{	
+	background:#751642;
+	}	
+	
+	
+
+#caixa_login h2{
+	font:15px Arial, Helvetica, sans-serif;
+	color:#FFF;
+	background:#900;
+	text-align:center;
+	padding:5px;
+	float:left;
+	margin:28px 0 10px 10px;
+	border:1px solid #CCC;	
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+	}
+
+
+
+

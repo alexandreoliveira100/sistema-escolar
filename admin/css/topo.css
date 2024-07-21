@@ -1,0 +1,124 @@
+body{
+	padding:0;
+	margin:0;
+	}
+	#box_topo{
+		width:500px;
+		height:200px;
+		margin:50px auto;
+		/*border-style: double;*/
+		}
+
+#mostra_login{
+			width:450px;
+			height:30px;
+			float:right;
+			margin: 10px 36px 15px 0;
+			}
+
+#campo_busca{
+		width:450px;
+		height:100px;
+		float:right;
+		margin:10px 0 -12px 0;
+		/*border:1px solid #333;*/
+		margin: 30px 36px -5px 0;
+		/*border-style: double;*/
+		}
+
+
+#campo_busca input{
+		float:left;
+		padding:10px;
+		width:300px;
+		height:39px;
+		border:1px solid #ccc;
+	
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:10px;
+	}
+
+#campo_busca .input{
+	float:left;
+	margin: 0px 0 0 10px;
+	background:url(../img/buscar.png) no-repeat;
+	width:100px;	
+	height:63px;
+	border:0;
+	}
+	
+#mostra_login h1{
+	float:left;
+	font:15px Arial, Helvetica, sans-serif;
+	}
+
+#mostra_login a{
+	margin:0 0 0 90px;
+	}
+
+#mostra_login a:hover{
+	color:#2fe417;
+	}
+
+#box_menu{
+	width:auto;
+	background:url(../img/menu_topo_navbar.png) repeat;
+	height:50px;
+	margin: -40px;
+	
+	}
+
+#menu_topo{
+	width:auto;
+	height:40px;
+	margin:auto;
+	/*border-style: double; isso da um realce nas bordas*/
+	}
+#menu_topo ul{
+	list-style:none;
+	}
+#menu_topo ul li{
+	float:left;
+	display:inline;
+	}
+	
+#menu_topo ul li a{
+	float:left;
+	color:#FFF;
+	font:14px Arial, Helvetica, sans-serif;	
+	padding: 15px 6px 10px 6px; /*este código faz as letra do menu subiram ou descerem*/
+	text-transform:uppercase;
+	text-decoration:none;
+	}
+#menu_topo ul li .a{
+	margin:10px 0 0 -38px;
+	}
+#menu_topo ul li a:hover{
+	background:rgb(100, 101, 104);
+	}
+#menu_topo img{
+	float:left;
+	margin:-0px 0 0 0;
+	}
+#menu_topo li ul{
+	display:none;
+	position:absolute;
+	top:241px;
+	width:160px;
+	}
+#menu_topo li:hover ul{
+	display:block;
+	}
+#menu_topo li ul a{
+	width:160px;
+	background:#330dbd;
+	text-transform:none;
+	padding:10px 10px 10px 10px;
+	margin:-16px 0px 17px -40px;
+	border-radius:3px;
+	}
+#menu_topo li ul a:hover{
+	background:#930;
+	color:#FF0;
+	}

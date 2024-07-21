@@ -1,0 +1,55 @@
+#box_curso{
+	width:980px;
+	background:#e0e0a6;
+	height:auto;
+	float:left;
+	text-align:left;
+	margin: 10px 0 20px 190px;
+	border: 1px solid #333;
+	
+	}
+
+	#box_curso table{
+		border:1px solid #333;
+		padding:20px;
+		background:#FFF;
+		margin: 20px 0 10px 10px;
+		margin:auto;
+	    font:15px Arial, Helvetica, sans-serif;
+	    text-align:left;
+	}  
+		
+
+	#visualizar_cursos{
+		width:980px;
+		background:#e0e0a6;
+		border:1px solid #333;
+		padding:1px;		
+		margin: 290px 0 20px 190px;	  
+		padding-bottom: 10px;
+	  }
+
+	  #visualizar_cursos h3{
+		font:12px Arial, Helvetica, sans-serif;
+		margin:2px 0 0 0;
+		color:rgb(0, 153, 8);
+		}
+
+	  #visualizar_cursos table{
+		border:1px solid #0c0c0c;
+		margin:auto;
+		background:#FFF;
+		font:15px Arial, Helvetica, sans-serif;
+		padding:10px;	
+	  }
+
+	  #visualizar_cursos h1{
+		text-align: center;
+		color:#000;
+	  }
+
+	  
+	#box_curso h1{	
+		text-align: center;
+		color:#000;
+	}
